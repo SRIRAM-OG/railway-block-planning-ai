@@ -1,0 +1,6 @@
+{
+  "name": "PDR 26027: AI-Powered Automatic Block Planning Platform",
+  "description": "AI-powered automatic maintenance block planning, multi-department coordination, conflict resolution, and operational availability command platform for Indian Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
